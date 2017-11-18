@@ -6,6 +6,7 @@ Illustrate issue #82 of backward-cpp (https://github.com/bombela/backward-cpp/is
 
 ```bash
 git clone git@github.com:pkestene/backward-cpp-test.git
+cd backward-cpp-test
 git submodule init
 git submodule update
 ```
