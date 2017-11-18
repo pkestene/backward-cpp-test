@@ -1,0 +1,7 @@
+[submodule "backward-cpp"]
+	path = external/backward-cpp
+	url = https://github.com/bombela/backward-cpp.git
+[submodule "external/backward-cpp-pk"]
+	path = external/backward-cpp-pk
+	url = git@github.com:pkestene/backward-cpp.git
+	branch = issue_include_dirs
