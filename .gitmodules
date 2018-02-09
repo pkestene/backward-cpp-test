@@ -4,4 +4,4 @@
 [submodule "external/backward-cpp-pk"]
 	path = external/backward-cpp-pk
 	url = git@github.com:pkestene/backward-cpp.git
-	branch = issue_include_dirs
+	branch = nvcc_wrapper
