@@ -17,7 +17,7 @@ option (USE_BACKWARD_UPSTREAM "Use backward-cpp upstream version" ON)
 if (USE_BACKWARD_UPSTREAM)
   add_subdirectory(external/backward-cpp)
 else()
-  add_subdirectory(external/backward-cpp-pk)
+  add_subdirectory(external/backward-cpp-macro)
 endif()
 
 add_subdirectory(test)

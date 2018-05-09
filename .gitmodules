@@ -5,3 +5,7 @@
 	path = external/backward-cpp-pk
 	url = git@github.com:pkestene/backward-cpp.git
 	branch = nvcc_wrapper
+[submodule "external/backward-cpp-macro"]
+	path = external/backward-cpp-macro
+	url = https://github.com/pkestene/backward-cpp.git
+	branch = fix_add_backward_macro
